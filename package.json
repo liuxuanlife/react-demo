@@ -1,7 +1,7 @@
 {
-  "name": "teamwork",
+  "name": "vip",
   "version": "1.0.0",
-  "description": "团队合作项目",
+  "description": "demo",
   "main": "index.js",
   "scripts": {
     "build": "webpack -p",
